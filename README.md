@@ -23,17 +23,18 @@
 
 ---
 
-## Programming Languages
+## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![DSA](https://img.shields.io/badge/Basic%20DSA-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 ---
 
 ## Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-grey?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -45,18 +46,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Payal-Kumari-2302&show_icons=true&theme=tokyonight)
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Payal-Kumari-2302&theme=tokyonight)
-
-# 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Kumari-2302&layout=compact&theme=tokyonight)
----
 
 # 🌐 Connect With Me
 
