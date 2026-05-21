@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Payal-Kumari-2302/Payal-Kumari-2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Payal Kumari
 
-Here are some ideas to get you started:
+## 💫 About Me
+- 🎓 BCA Student
+- 💻 Learning Web Development
+- 🌱 Currently learning JavaScript & React
+- 🚀 Interested in Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Payal-Kumari-2302&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- Instagram: @payal_kumari_2302
