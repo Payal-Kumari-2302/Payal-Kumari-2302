@@ -6,7 +6,7 @@
 
 # 🌟 About Me
 
-- 🌱 I’m currently learning Python, Web Development & SQL  
+- 🌱 I’m currently learning Python, SQL & DBMS  
 - 👯 I’m looking to collaborate on beginner-friendly projects  
 - 🤝 I’m looking for help with improving my coding skills  
 - 💬 Ask me about HTML, CSS, Python & BCA journey  
