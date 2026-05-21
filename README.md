@@ -6,13 +6,12 @@
 
 # 🌟 About Me 
 
-- 🎓 Pursuing BCA (2026)
-- 🌱 Currently learning Python, SQL & DBMS
-- 📊 Aspiring Data Analyst  
-- 📚 Exploring DBMS & Backend Development
-- 🚀 Improving coding and problem-solving skills
-- ✨ Passionate about Programming & Technology   
--  🛠️ Building Projects to Improve Skills
+- 🌱 I’m currently learning Python, Web Development & SQL
+- 👯 I’m looking to collaborate on beginner-friendly projects
+- 🤝 I’m looking for help with improving my coding skills
+- 💬 Ask me about HTML, CSS, Python & BCA journey
+- ⚡ Fun fact: I’m a BCA fresher who loves turning ideas into websites 💻
+ 
 ---
 
 # 🛠 Tech Stack
@@ -49,18 +48,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/payal-kumari-20b2432b9)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/payal_kumari_2302)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Payal-Kumari-2302)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswalpayal0403@gmail.com)
 
 
----
 
-# 🌐 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/payal_kumari_2302)
 
 ---
 
