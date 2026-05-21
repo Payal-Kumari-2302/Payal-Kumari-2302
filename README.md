@@ -47,16 +47,15 @@
 
 # 📊 GitHub Stats
 
-![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Payal-Kumari-2302&show_icons=true&theme=tokyonight&hide_border=true)
+![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Payal-Kumari-2302&show_icons=true&theme=tokyonight)
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Payal-Kumari-2302&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Payal-Kumari-2302&theme=tokyonight)
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Kumari-2302&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Kumari-2302&layout=compact&theme=tokyonight)
 ---
 
 # 🌐 Connect With Me
