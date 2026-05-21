@@ -40,9 +40,17 @@
 
 ---
 
-# 📊 GitHub Stats
+# ## 📊 GitHub Stats
 
-![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Payal-Kumari-2302&show_icons=true&theme=tokyonight)
+![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Payal-Kumari-2302&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Payal-Kumari-2302&theme=tokyonight&hide_border=true)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-Kumari-2302&layout=compact&theme=tokyonight&hide_border=true)
 
 # 🌐 Connect With Me
 
