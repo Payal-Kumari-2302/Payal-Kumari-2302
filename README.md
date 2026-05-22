@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Python, SQL & DBMS  
 - 👯 I’m looking to collaborate on beginner-friendly projects  
 - 🤝 I’m looking for help with improving my coding skills  
-- 💬 Ask me about my BCA journey  
+- 💬 Feel free to ask me about my BCA journey, skills, and learning experience  
 - ⚡ Fun fact: I’m a BCA fresher who loves turning ideas into websites 💻  
 
 ---
