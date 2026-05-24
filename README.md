@@ -45,14 +45,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-# 🚀 Projects Showcase
-
-## 👨‍💻 My Projects
-
-| Project | Description | Live Link |
-|---------|-------------|-----------|
-| Portfolio Website | Personal portfolio website | https://payal-kumari-2302.github.io/My-Portfolio-Website/|
-| Smart Calculator | Simple & smart calculator | https://github.com/Payal-Kumari-2302/Simple-Calculator |
 
 # 🌐 Connect With Me
 
