@@ -45,7 +45,14 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+# 🚀 Projects Showcase
 
+## 👨‍💻 My Projects
+
+| Project | Description | Live Link |
+|---------|-------------|-----------|
+| Portfolio Website | Personal portfolio website | [Visit Site](YOUR_PORTFOLIO_LINK) |
+| Smart Calculator | Simple & smart calculator | [Visit Site](YOUR_CALCULATOR_LINK) |
 
 # 🌐 Connect With Me
 
