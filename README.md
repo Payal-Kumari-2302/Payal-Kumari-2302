@@ -46,6 +46,16 @@
 
 ---
 
+# 🚀 Projects Showcase
+
+## 👨‍💻 My Projects
+
+| Project | Description | Live Link |
+|---------|-------------|-----------|
+| Portfolio Website | Personal portfolio website | [Visit Site](YOUR_PORTFOLIO_LINK) |
+| Smart Calculator | Simple & smart calculator | [Visit Site](https://payal-kumari-2302.github.io/smart-calculator-project/) |
+
+
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/payal-kumari-20b2432b9)
