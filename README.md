@@ -51,8 +51,8 @@
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-| Portfolio Website | Personal portfolio website | [Visit Site]https://payal-kumari-2302.github.io/My-Portfolio/ |
-| Smart Calculator | Simple & smart calculator | [Visit Site](YOUR_CALCULATOR_LINK) |
+| Portfolio Website | Personal portfolio website | https://payal-kumari-2302.github.io/My-Portfolio/ |
+| Smart Calculator | Simple & smart calculator | https://github.com/Payal-Kumari-2302/Simple-Calculator |
 
 # 🌐 Connect With Me
 
