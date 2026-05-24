@@ -63,13 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Payal-Kumari-2302&show_icons=true&theme=radical" />
 </p>
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Payal-Kumari-2302">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+>
 
 
 # 🌐 Connect With Me
