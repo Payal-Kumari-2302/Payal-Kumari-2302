@@ -61,7 +61,7 @@
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-| Bank Management System  |  A simple app to manage bank accounts and transactions. | [Visit Site]( https://payal-kumari-2302.github.io/bank-management-system-project/) |
+| Bank Management System  |  A simple app to manage bank accounts and transactions. | [Visit Site](https://payal-kumari-2302.github.io/bank-management-system-project/) |
 |  |  | [Visit Site]() |
 |  |  | [Visit Site]() |
 
