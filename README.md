@@ -61,7 +61,7 @@
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-|  |  | [Visit Site]() |
+| Bank Management System  |  A simple app to manage bank accounts and transactions. | [Visit Site]() |
 |  |  | [Visit Site]() |
 |  |  | [Visit Site]() |
 
@@ -70,7 +70,7 @@
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-| Bank Management System| A simple app to manage bank accounts and transactions. | [Visit Site]() |
+|  |  | [Visit Site]() |
 |  |  | [Visit Site]() |
 |  |  | [Visit Site]() |
 
