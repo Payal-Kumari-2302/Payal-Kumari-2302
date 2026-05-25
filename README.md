@@ -49,7 +49,7 @@
 
 # 🚀 Projects Showcase
 
-## 👨‍💻 Basic Projects
+## 👨‍💻 Basic Level Projects
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
