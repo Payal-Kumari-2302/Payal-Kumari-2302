@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm Payal Kumari
-
-🎓 BCA Student | 💻 Aspiring IT Professional | 🚀 Tech Enthusiast
+# 👋 Hi, I'm Payal Kumari
+💻BCA Student | Frontend Developer | Python & Web Enthusiast
 
 ---
 
