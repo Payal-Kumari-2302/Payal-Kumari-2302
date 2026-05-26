@@ -5,12 +5,10 @@
 
 # 🌟 About Me
 
-- 🌱 I’m currently learning Python, SQL & DBMS  
-- 👯 I’m looking to collaborate on beginner-friendly projects  
-- 🤝 I’m looking for help with improving my coding skills  
-- 💬 Feel free to ask me about my BCA journey and learning experience  
-- ⚡ Fun fact: I’m a BCA fresher who loves turning ideas into websites 💻  
-
+- 🌱 Learning Python, SQL & Web Development  
+- 💻 Building beginner-friendly projects  
+- 🚀 Improving problem-solving & coding skills  
+- ⚡ Love turning ideas into real websites
 ---
 
 # 🛠️ Tech Stack
@@ -27,7 +25,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DSA](https://img.shields.io/badge/Basic%20DSA-000000?style=for-the-badge&logo=codeforces&logoColor=white)
+
 ---
 
 ## Database
