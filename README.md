@@ -72,9 +72,7 @@
 |  |  | [Visit Site]() |
 
 
-# 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Payal-Kumari-2302&show_icons=true&
 
 # 🌐 Connect With Me
 
