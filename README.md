@@ -58,7 +58,7 @@
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-| Online_job_portal | Python, Tkinter, MySQL | [View Project](https://github.com/Payal-Kumari-2302/online_job_portal) |
+| Online_job_portal | Python, Tkinter, MySQL | [visit Site](https://github.com/Payal-Kumari-2302/online_job_portal) |
 |  |  | [Visit Site]() |
 
 
