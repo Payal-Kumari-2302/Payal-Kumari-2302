@@ -58,8 +58,7 @@
 
 | Project | Description | Live Link |
 |---------|-------------|-----------|
-| | Online_job_portal | Online Job Portal using Python, Tkinter and MySQL | [View Project](https://github.com/Payal-Kumari-2302/online_job_portal) |
-|  |  | [Visit Site]() |
+| Online Job Portal| simple and smart online job portal | [Visit Site]() |
 |  |  | [Visit Site]() |
 
 
