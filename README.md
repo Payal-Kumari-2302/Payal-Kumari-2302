@@ -59,7 +59,7 @@
 | Project | Description | Live Link |
 |---------|-------------|-----------|
 | Online_job_portal | Python, Tkinter, MySQL | [visit Site]() |
-|  |  | [Visit Site]() |
+
 
 
 
