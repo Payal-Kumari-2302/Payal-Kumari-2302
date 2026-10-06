@@ -6,10 +6,13 @@
 
 # 🌟 About Me
 
-- 🌱 Learning Python, SQL & Web Development  
-- 💻 Building beginner-friendly projects  
-- 🚀 Improving problem-solving & coding skills  
-- ⚡ Love turning ideas into real websites
+* 🎓 BCA Student & Aspiring IT Professional
+* 🌱 Learning and growing through practical projects
+* 💻 Building projects to strengthen my technical knowledge
+* 🚀 Improving my problem-solving and coding abilities
+* ⚡ Turning ideas into practical and useful applications
+* 📚 Always curious to learn something new
+
 ---
 
 # 🛠️ Tech Stack
