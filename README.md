@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Payal Kumari
 💻BCA Student | Aspiring IT Professional | Problem Solver | Tech Enthusiast | Open to Entry-Level Opportunities
 
-
 ---
 
 # 🌟 About Me
